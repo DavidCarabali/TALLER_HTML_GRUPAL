@@ -2,4 +2,19 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+.container {
+    background: darkgray;
+}
+
+h3 {
+    color: darkolivegreen;
+}
+
+.h3Blue {
+    color: darkturquoise;
+}
+
+.h3Red {
+    color: brown;
+}
